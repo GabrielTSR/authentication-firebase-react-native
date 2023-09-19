@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784082060967",
+    "project_id": "poc-teste-dabd7",
+    "storage_bucket": "poc-teste-dabd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784082060967:android:f472423debd81c18ed3d82",
+        "android_client_info": {
+          "package_name": "br.com.poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPDWhC58UrkrINwpOcY0yLd_pvlICuGpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
